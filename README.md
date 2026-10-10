@@ -1,16 +1,23 @@
 ## Hi there 👋
+# Hi there, I'm Tanushka Yadav! 👋
+### DevOps Engineer | Cloud & Infrastructure Specialist
 
-<!--
-**TanushkaYadav/TanushkaYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💼 **DevOps Engineer** with hands-on experience in AWS, Azure, and GCP.
+- 🛠️ Expertise in **Jenkins, Terraform, Docker, Kubernetes, Helm, Linux, and Datadog**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+- **Cloud:** AWS (EKS, EC2, S3, VPC), Azure (AKS, ACR), GCP (GKE)
+- **CI/CD & IaC:** Jenkins, GitHub Actions, Terraform, Maven, SonarQube
+- **Containers & Orchestration:** Docker, Kubernetes, Helm
+- **Monitoring & Scripting:** Datadog, Prometheus, Grafana, CloudWatch, Bash, Linux
+
+---
+
+### 📬 Connect with Me
+- 📧 **Email:** ytanushka498@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/tanushka-yadav04](https://linkedin.com/in/tanushka-yadav04)
